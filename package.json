@@ -1,0 +1,17 @@
+{
+  "name": "docs.starlab",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  }
+}
