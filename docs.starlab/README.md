@@ -1,6 +1,6 @@
 Starlab
 =========
-* The Next Generation Develop Platform of Starlab 
+* The Next Generation Develop Platform for Starlab 
 
 Git仓库
 =======
